@@ -1,6 +1,6 @@
 ### Olá, eu sou o Lucas Fonseca 👋
 
-- 🌱 Atualmente estou aprendendo: Desenvolvimento front-end.
+- 🌱 Atualmente estou aprendendo: Desenvolvimento Java e JSF.
 - 😄 Pronomes: Ele/Dele.
 ##
 <div align="center">
